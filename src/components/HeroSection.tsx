@@ -52,7 +52,7 @@ export const HeroSection = () => {
                 </div>
                 <div className="flex items-center">
                   <div className="w-2 h-2 bg-primary rounded-full mr-2"></div>
-                  Sin licencias premium
+                  Olvidate de las licencias premium para cada LLM
                 </div>
               </div>
             </div>
