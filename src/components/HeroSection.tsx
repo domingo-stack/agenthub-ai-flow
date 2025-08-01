@@ -10,16 +10,16 @@ export const HeroSection = () => {
             <div className="text-center lg:text-left">
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight mb-6">
                 <span className="bg-gradient-primary bg-clip-text text-transparent">
-                  Conecta a todo tu equipo
+                  Todos los superpoderes de la IA,
                 </span>
                 <br />
                 <span className="text-foreground">
-                  con la mejor IA, sin pagar licencias premium por usuario
+                  centralizados para tu equipo
                 </span>
               </h1>
               
               <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto lg:mx-0">
-                Activa a tu equipo en minutos, centraliza todos los modelos LLM y ahorra desde el primer día
+                Configura en segundos, centraliza todos los modelos LLM y ahorra desde el primer día
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
