@@ -10,7 +10,7 @@ export const HeroSection = () => {
             <div className="text-center lg:text-left">
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight mb-6">
                 <span className="bg-gradient-primary bg-clip-text text-transparent">
-                  Todos los superpoderes de la IA,
+                  Los superpoderes de la IA,
                 </span>
                 <br />
                 <span className="text-foreground">
